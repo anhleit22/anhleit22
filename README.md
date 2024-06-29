@@ -27,8 +27,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Stack Overflow-282C34?logo=stack Overflow&logoColor=FFCA28" alt="Kotlin logo" title="Kotlin" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=FFCA28" alt="Stack Overflow logo" title="Kotlin" height="25" /></span>
-&nbsp;
 
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
